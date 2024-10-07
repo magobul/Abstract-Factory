@@ -1,0 +1,32 @@
+E:\миша\Abstract factory\bin\Debug\net8.0-windows\Abstract factory.exe
+E:\миша\Abstract factory\bin\Debug\net8.0-windows\Abstract factory.deps.json
+E:\миша\Abstract factory\bin\Debug\net8.0-windows\Abstract factory.runtimeconfig.json
+E:\миша\Abstract factory\bin\Debug\net8.0-windows\Abstract factory.dll
+E:\миша\Abstract factory\bin\Debug\net8.0-windows\Abstract factory.pdb
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\Abstract_factory.Form1.resources
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.csproj.GenerateResource.cache
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.GeneratedMSBuildEditorConfig.editorconfig
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.AssemblyInfoInputs.cache
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.AssemblyInfo.cs
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.csproj.CoreCompileInputs.cache
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.dll
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\refint\Abstract factory.dll
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.pdb
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.genruntimeconfig.cache
+E:\миша\Abstract factory\obj\Debug\net8.0-windows\ref\Abstract factory.dll
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\Abstract_factory.Form1.resources
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.csproj.GenerateResource.cache
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.GeneratedMSBuildEditorConfig.editorconfig
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.AssemblyInfoInputs.cache
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.AssemblyInfo.cs
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.dll
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\refint\Abstract factory.dll
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.pdb
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\bin\Debug\net8.0-windows\Abstract factory.exe
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\bin\Debug\net8.0-windows\Abstract factory.deps.json
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\bin\Debug\net8.0-windows\Abstract factory.runtimeconfig.json
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\bin\Debug\net8.0-windows\Abstract factory.dll
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\bin\Debug\net8.0-windows\Abstract factory.pdb
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\Abstract factory.genruntimeconfig.cache
+\\iscsi\profstud\KoretchukMA\Desktop\Abstract factory\obj\Debug\net8.0-windows\ref\Abstract factory.dll
